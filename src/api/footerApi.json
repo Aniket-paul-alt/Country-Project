@@ -1,0 +1,17 @@
+[
+    {
+        "icon": "MdPlace",
+        "title": "Find us",
+        "details": "Howrah, West Bengal"
+    },
+    {
+        "icon": "IoCallSharp",
+        "title": "Call us",
+        "details": "6290966717"
+    },
+    {
+        "icon": "TbMailPlus",
+        "title": "Mail us",
+        "details": "aniket.paul618@gmail.com"
+    }
+]

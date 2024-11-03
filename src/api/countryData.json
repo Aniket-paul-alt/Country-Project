@@ -1,0 +1,79 @@
+[
+    {
+        "id": 0,
+        "countryName": "World",
+        "capital": "No Capital",
+        "population": "Null",
+        "interestingFacts": "There are 195 countries in the world today, including 193 United Nations member states and 2 observer states."
+    },
+    {
+        "id": 1,
+        "countryName": "India",
+        "capital": "New Delhi",
+        "population": "1.4 billion",
+        "interestingFacts": "India is the world's largest democracy and also the birthplace of chess."
+    },
+    {
+        "id": 2,
+        "countryName": "Japan",
+        "capital": "Tokyo",
+        "population": "125.8 million",
+        "interestingFacts": "Japan has more than 6,800 islands, with only about 430 inhabited."
+    },
+    {
+        "id": 3,
+        "countryName": "Brazil",
+        "capital": "Brasília",
+        "population": "203 million",
+        "interestingFacts": "Brazil is home to the Amazon Rainforest, the world's largest tropical rainforest."
+    },
+    {
+        "id": 4,
+        "countryName": "Australia",
+        "capital": "Canberra",
+        "population": "26 million",
+        "interestingFacts": "Australia is the only continent that is also a country, and 90% of its population lives along the coast."
+    },
+    {
+        "id": 5,
+        "countryName": "Norway",
+        "capital": "Oslo",
+        "population": "5.4 million",
+        "interestingFacts": "Norway is home to the famous fjords and is also where the Nobel Peace Prize is awarded."
+    },
+    {
+        "id": 6,
+        "countryName": "Canada",
+        "capital": "Ottawa",
+        "population": "40 million",
+        "interestingFacts": "Canada has the longest coastline in the world, stretching over 202,080 km."
+    },
+    {
+        "id": 7,
+        "countryName": "South Africa",
+        "capital": "Pretoria (executive), Bloemfontein (judicial), Cape Town (legislative)",
+        "population": "60.1 million",
+        "interestingFacts": "South Africa has three capital cities and is known as the 'Rainbow Nation' due to its cultural diversity."
+    },
+    {
+        "id": 8,
+        "countryName": "Italy",
+        "capital": "Rome",
+        "population": "59 million",
+        "interestingFacts": "Italy is home to the world's smallest country, Vatican City, which is located within Rome."
+    },
+    {
+        "id": 9,
+        "countryName": "Iceland",
+        "capital": "Reykjavik",
+        "population": "376,000",
+        "interestingFacts": "Iceland has no standing army and is known for its unique geothermal activity, including geysers and volcanoes."
+    },
+    {
+        "id": 10,
+        "countryName": "Mexico",
+        "capital": "Mexico City",
+        "population": "128 million",
+        "interestingFacts": "Mexico introduced chocolate, chilies, and corn to the world and is known for its rich cultural heritage."
+    }
+]
